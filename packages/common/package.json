@@ -18,7 +18,7 @@
     "dat.gui": "^0.7.9",
     "flags": "^4.0.0",
     "lodash": "^4.17.21",
-    "next-themes": "^0.3.0",
+    "next-themes": "^0.4.6",
     "posthog-js": "^1.257.2",
     "react-use": "^17.4.0",
     "valtio": "catalog:"
